@@ -1,8 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/f6dTnkNL)
 
-<img src="assets/img/web.png">
-
 <h1>IMAN MARIS-WEEKLY ASSIGNMENT - WEEK 5</h1>
+
+---
 
 <div>
 <h2>Table of Contents</h2>
@@ -21,14 +21,26 @@
 
 </div>
 
+###---
 
+<div>
+<h2>Responsive Mode</h2>
 
+#### Dekstop Mode
+Dekstop mode use Dimension value from <b>991 px and up</b>
 
+<img src="assets/img/web.png">
 
+</div>
+######-----
 
+#### Mobile Mode
+Mobile mode use Dimension from Samsung Galaxy with size resposivity in <b>412 x 915</b> px.
+<img src="assets/img/mobile.png">
 
+</div>
 
---------
+###---
 <h2>Deployment</H2>
 
 #### Content Deploy Use Netlify

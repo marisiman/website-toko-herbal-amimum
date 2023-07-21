@@ -767,7 +767,7 @@ section{
         border-radius: 5px;
         clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
         transition: .5s ease-in-out;
-        background-color: var(--navbar-color);
+        background-color: #BFDCAE;
     }
     .nav-wrapper .menu-wrapper.active{
         clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
@@ -784,10 +784,10 @@ section{
        margin: 30px 0;
     }
     .menu .menu-item .menu-link{
-        color: var(--main-color);
+        color: #06623B;
     }
     .nav-wrapper .menu-toggle{
-        display: ruby-base;
+        display: flow-root;
         font-size: 2.5rem;
         color: var(--main-color);
         transition: .5s;
@@ -873,7 +873,7 @@ section{
     }
 
     .nav-wrapper .menu-toggle{
-        display: ruby-base;
+        display: flow-root;
         font-size: 2.5rem;
         color: var(--main-color);
         transition: .5s;
