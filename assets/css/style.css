@@ -227,6 +227,12 @@ section{
     color: rgba(31, 31, 31, 0.479);
 }
 
+.home-wrapper .content-right2{
+    display: none;
+    justify-content: center;
+    flex: 0 0 100%;
+}
+
 .content-right .img-wrapper{
     max-width: 800px;
 }
@@ -794,16 +800,17 @@ section{
     }
 
     .home-wrapper .content-right{
-        display: flex;
-        justify-content: center;
-        flex: 0 0 100%;
+        display: none;
     }
+
+
     .home-wrapper .content-left{
         text-align: center;
         flex: 0 0 100%;
     }
     .home-wrapper .subheading{
        margin: auto;
+       color: #90AACB;
     }
     .home-wrapper .box-wrapper{
         margin-top: 20px;
@@ -878,6 +885,24 @@ section{
         color: var(--main-color);
         transition: .5s;
     }
+
+    .home-wrapper .content-left{
+        background-image: url(/assets/img/rempahbackground.png);
+        background-position-x: -30px;
+        background-position-y: 5px;
+        background-size: 180%;
+        
+    }
+
+    .home-wrapper .content-left .heading{
+        margin-top: -50px;
+      }
+
+    .home-wrapper .content-left .subheading{
+        margin-top: 225px;
+        color: var(--navbar-color);
+        background:rgba(0, 161, 157, 0.208);
+      }
 
    .testi-wrapper .col-slider-testi{
        margin: 30px auto;
