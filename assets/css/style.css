@@ -871,6 +871,14 @@ section{
     .banner1 .btn-book{
        margin: 30px auto;
     }
+
+    .nav-wrapper .menu-toggle{
+        display: ruby-base;
+        font-size: 2.5rem;
+        color: var(--main-color);
+        transition: .5s;
+    }
+
    .testi-wrapper .col-slider-testi{
        margin: 30px auto;
        width: 100%;
