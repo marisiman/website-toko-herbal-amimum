@@ -2,7 +2,6 @@
 
 <h1>IMAN MARIS-WEEKLY ASSIGNMENT - WEEK 5</h1>
 
----
 
 <div>
 <h2>Table of Contents</h2>
@@ -21,7 +20,7 @@
 
 </div>
 
-###---
+### ---
 
 <div>
 <h2>Responsive Mode</h2>
@@ -31,16 +30,26 @@ Dekstop mode use Dimension value from <b>991 px and up</b>
 
 <img src="assets/img/web.png">
 
+
+
+Dekstop result of generate a lighthouse report : 
+
+<img src="/assets/img/dekstop_lighthouse.png">
+
 </div>
-######-----
 
 #### Mobile Mode
 Mobile mode use Dimension from Samsung Galaxy with size resposivity in <b>412 x 915</b> px.
 <img src="assets/img/mobile.png">
 
+Mobile result of generate a lighthouse report : 
+
+<img src="/assets/img/mobile_lighthouse.png">
+
 </div>
 
-###---
+### ---
+
 <h2>Deployment</H2>
 
 #### Content Deploy Use Netlify

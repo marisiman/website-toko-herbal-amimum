@@ -895,13 +895,12 @@ section{
     }
 
     .home-wrapper .content-left .heading{
-        margin-top: -50px;
+        margin-top: -58px;
       }
 
     .home-wrapper .content-left .subheading{
-        margin-top: 225px;
-        color: var(--navbar-color);
-        background:rgba(0, 161, 157, 0.208);
+        margin-top: 235px;
+
       }
 
    .testi-wrapper .col-slider-testi{
