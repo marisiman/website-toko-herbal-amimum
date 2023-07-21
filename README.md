@@ -2,7 +2,7 @@
 
 <img src="assets/img/web.png">
 
-<h1>Iman Maris-Weekly Assignments - Week 5</h1>
+<h1>IMAN MARIS-WEEKLY ASSIGNMENT - WEEK 5</h1>
 
 <div>
 <h2>Table of Contents</h2>
@@ -21,7 +21,15 @@
 
 </div>
 
-<h2>DEPLOYMENT</H2>
+
+
+
+
+
+
+
+--------
+<h2>Deployment</H2>
 #### Content Deploy Use Netlify
 The project has been successfully deployed using [Netlify](https://milestone-w5-iman.netlify.app/)
 
@@ -35,28 +43,25 @@ Edit on section "<b>Target (required)</b>" with the latest deployment name on ne
 
 Then, click "<b>Save</b>".
 
-![Add a website](/image%20readme/connect2.png)
-
-Then write down the domain name that has been prepared, and then click "add site".
-
-![input domain in cloudflare](/image%20readme/connect3.png)
-
- or you can access the production version of [custome domain](https://imanmaris.site/). </div>
+</div>
 
 ##### Step 2 : Remove old namesite in Netlify
 Remove old name site in netlify
 
 ![remove old namesite](/assets/img/REMOVE.png)
 ---
-##### Step 2 : Add new setting namesite in Netlify
+##### Step 3 : Add new setting namesite in Netlify
 After successful deployment with netlify, add new namesite that has been changed in Cloudflare to here ..
 
 ![add namesite](/assets/img/ADD.png)
 
+Finally you can access the production version of [custome domain](https://imanmaris.site/). 
 
 
 
 
-<h1>COMING SOON</h1>
 
-`still in progress !!!`
+---
+
+
+`copyright by Iman`
